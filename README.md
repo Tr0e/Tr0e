@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi,I'm Tr0e😄
 
-<!--
-**Tr0e/Tr0e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am a cyber cecurity engineer from China.
+- 🌱 Home: Guangdong
+- ⚡ Focus on: Web & Android security & Security Compliance
+- 🤔 I'm very interested in building my own offensive and defensive arsenal.
+- 😄 Hobby: Running🏃Sports help me stay focused and energetic.
+- 📫 Email:   tr0eeeee@163.com
+- ✍️ My Blog：https://blog.csdn.net/weixin_39190897/
+- 💬 Welcome to contact me if you have any questions about the technology I research.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tr0e&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
