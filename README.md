@@ -1,6 +1,6 @@
 ### Hi,I'm Tr0e😄
 
-- 🔭 I am a cyber cecurity engineer from China.
+- 🔭 I am a cyber security engineer from China.
 - 🌱 Home: Guangdong
 - ⚡ Focus on: Web & Android security & Security Compliance
 - 🤔 I'm very interested in building my own offensive and defensive arsenal.
